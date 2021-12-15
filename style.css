@@ -1,0 +1,9 @@
+body{
+background-color: rgb(215, 253, 0);}
+input{
+ width: 200px;
+}
+canvas{
+ position: fixed;  
+ margin-top:200px; 
+}
